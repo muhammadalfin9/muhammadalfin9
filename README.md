@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm M.M. Alfin</h1>
-<h3 align="center">🚀 Aspiring Developer | Open-Source Enthusiast | Gamer at Heart 🎮</h3>
+<h1 align="center">👋 Hi, I'm Muhammad Alfin</h1>
+<h5 align="center">🚀 Aspiring Developer | Open-Source Enthusiast | Gamer at Heart 🎮</h3>
 
 ---
 
