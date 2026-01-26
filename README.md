@@ -25,7 +25,7 @@
 
 ## 📊 CodeWars Stats
 
-![Codewars](https://github.r2v.ch/codewars?user=muhammadalfin9&stroke=#4F1696)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=muhammadalfin9)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 
 
