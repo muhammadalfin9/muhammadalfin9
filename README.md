@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Muhammad Alfin</h1>
-<h5 align="center">🚀 Aspiring Developer | Open-Source Enthusiast | Gamer at Heart 🎮</h3>
+<h5 align="center">🚀 Fullstack Developer | Open-Source Enthusiast | Gamer at Heart 🎮</h3>
 
 ---
 ## Day 2 Puasa Ramadhan
