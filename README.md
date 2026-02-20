@@ -2,7 +2,7 @@
 <h5 align="center">🚀 Aspiring Developer | Open-Source Enthusiast | Gamer at Heart 🎮</h3>
 
 ---
-## 1 Day Puasa Ramadhan
+## Day 2 Puasa Ramadhan
 ## 🧑‍💻 About Me
 - 🔭 Currently working on: **Cool open-source projects**
 - 🌱 Learning: **JavaScript**, **Node.js**, **React**
