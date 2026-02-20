@@ -30,7 +30,9 @@
 
 
 ---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadalfin9&show_icons=true&locale=en&layout=compact" alt="muhammadalfin9" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalfin9&" alt="muhammadalfin9" /></p>
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://twitter.com/yourprofile)
