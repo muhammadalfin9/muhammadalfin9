@@ -2,7 +2,7 @@
 <h5 align="center">🚀 Fullstack Developer | Open-Source Enthusiast | Gamer at Heart 🎮</h3>
 
 ---
-## Day 2 Puasa Ramadhan
+## Day 3 Puasa Ramadhan
 ## 🧑‍💻 About Me
 - 🔭 Currently working on: **Cool open-source projects**
 - 🌱 Learning: **JavaScript**, **Node.js**, **React**
